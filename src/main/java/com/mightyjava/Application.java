@@ -53,6 +53,8 @@ public class Application implements CommandLineRunner {
 		book.setIsbnNumber(1617293989L);
 		book.setPrice(2776.00);
 		book.setLanguage("English");
+
+		
 		bookService.saveOrUpdate(book);
 	}
 
