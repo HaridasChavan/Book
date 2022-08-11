@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Hari
+Build-Jdk: 17.0.2
+Implementation-Title: book-rest-api-spring-security-jwt
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.mightyjava
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/book-rest-api-spring-security-jwt
+Created-By: Maven Integration for Eclipse
+
